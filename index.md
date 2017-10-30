@@ -1,8 +1,8 @@
 ## 前端学习资源记录
 
-#####感谢github，知乎以及那么那么多愿意分享的人
+##### 感谢github，知乎以及那么那么多愿意分享的人
 
-#####教程
+##### 教程
 + [百度前端技术学院](http://ife.baidu.com/)
 + [JavaScript-30 的中文练习指南](https://github.com/soyaine/JavaScript30)
 + [个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
@@ -22,7 +22,7 @@
 + [十日谈](https://github.com/jayli/jayli.github.com/issues/1)
 + [Learn HTML5, CSS3, Javascript and more...](http://thecodeplayer.com/)
 
-#####资源
+##### 资源
 + [电子书](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books-zh.md)
 + [计算机相关技术书籍](https://github.com/EZLippi/practical-programming-books)
 + [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS)
@@ -33,7 +33,7 @@
 + [在线测试正则表达式](https://regex101.com/#javascript)
  
 
-#####笔试面试
+##### 笔试面试
 + [FEX 面试问题](https://github.com/fex-team/interview-questions)
 + [笔试面试知识整理](https://hit-alibaba.github.io/interview/index.html)
 + [收集的前端面试题和答案](https://github.com/qiu-deqing/FE-interview)
@@ -42,7 +42,7 @@
 + [前端面试题整理](http://www.cnblogs.com/yuqingfamily/p/6866163.html)
 + [前端面试知识点锦集（JavaScript篇）](http://www.chenyijun.net/2016/06/11/%E5%89%8D%E7%AB%AF%E9%9D%A2%E8%AF%95%E7%9F%A5%E8%AF%86%E7%82%B9%E9%94%A6%E9%9B%86%EF%BC%88JavaScript%E7%AF%87%EF%BC%89/#more)
 
-#####博客篇
+##### 博客篇
 + [没事写写文章](https://github.com/fouber/blog)
 + [ChokCoco](http://www.cnblogs.com/coco1s/)
 + [cherry's blog](http://cherryblog.site/)
@@ -53,13 +53,12 @@
 + [dwqs's blog](https://github.com/dwqs/blog)
 + [GumpYan](http://www.cnblogs.com/GumpYan/category/835350.html)
 + [winter-cn](http://www.cnblogs.com/winter-cn/archive/2013/05/11/3072929.html)
-
 + [追梦子](http://www.cnblogs.com/pssp/)
 + [Wayne Zhu](http://www.cnblogs.com/zhuzhenwei918/)
 
 
 
-#####高质量网站
+##### 高质量网站
 + [css-tricks](https://css-tricks.com/)
 + [A List Apart: For People Who Make Websites](https://alistapart.com/)
 + [smashingmagazine](https://www.smashingmagazine.com/)
@@ -68,7 +67,7 @@
 + [v2ex](https://www.v2ex.com/)
 + [w3cplus](http://www.w3cplus.com/)
 
-#####就是好看
+##### 就是好看
 + [Robby Leonardi](http://www.rleonardi.com/interactive-resume/)
 + [23岁来自巴黎的设计师](http://www.guillaumejuvenet.com/)
 + [myswitzerland](http://grandtour.myswitzerland.com/en/)
@@ -77,7 +76,7 @@
 + [Tama Art University](http://www.tamabi.ac.jp/)
 + [ming 简历](http://ming.today/)
 
-#####工具推荐
+##### 工具推荐
 + [deskpins：将窗口置前，神器！](https://deskpins.en.softonic.com/)
 + [git-bash工具：必备](https://git-for-windows.github.io/)
 + [MDict: 查单词，自己导入词典](http://www.mdict.cn/wp/?lang=zh)
